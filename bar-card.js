@@ -4905,7 +4905,7 @@ let BarCard = class BarCard extends LitElement {
         return html `
       <ha-card
         .header=${this._config.title ? this._config.title : null}
-        style="${this._config.entity_row ? 'background: #0000; box-shadow: none;' : ''}"
+        style="${this._config.entity_row ? 'background: #0000; box-shadow: none; border-width: 0px;' : ''}"
       >
         <div
           id="states"
