@@ -11,7 +11,7 @@
     "custom-cards"
   ],
   "module": "bar-card.js",
-  "repository": "git@github.com:custom_cards/bar-card.git",
+  "repository": "git@github.com:mathoudebine/bar-card.git",
   "author": "Lucas Bramlage <lucas.bramlage@gmail.com>",
   "license": "MIT",
   "dependencies": {
